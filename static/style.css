@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: rgb(36, 182, 192);
+}
+img {
+    width : 200px; 
+    height : auto;
+}
+.container {
+    display: flex;
+    gap : 600px;
+}

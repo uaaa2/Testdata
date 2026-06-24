@@ -1,0 +1,10 @@
+name-profile-app/
+ ├─ app.py		/ Flask 벡엔드 중심 파일
+ ├─ init_db.py		/ 서버 생성자 / db 생성
+ ├─ templates		/ HTML 파일 저장
+ │   └─ index.html 	/ 사용자가 실제로 보는 화면	
+ ├─ static/			/ 사용자에게 원본 전달 파일
+ │   ├─ style.css	/ CSS 
+ │   └─ images/	/ 이미지
+ ├─ README.md	/ 프로젝트 설명
+ └─ requirements.txt	/ 실행간 필요한 라이브러리
